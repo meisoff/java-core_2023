@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76e5c870-1e96-47ad-b977-c324db39f437" name="Changes" comment="Лабораторная работа №3">
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Tasks/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Tasks/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Tasks/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +46,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "extract.method.default.visibility": "private",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -83,6 +73,7 @@
       <workItem from="1680630547719" duration="4387000" />
       <workItem from="1680953078296" duration="26026000" />
       <workItem from="1681964647049" duration="32263000" />
+      <workItem from="1682353874297" duration="5845000" />
     </task>
     <task id="LOCAL-00001" summary="General commit">
       <created>1680634899377</created>
