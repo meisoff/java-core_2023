@@ -4,67 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76e5c870-1e96-47ad-b977-c324db39f437" name="Changes" comment="Лабораторная работа №6">
-      <change afterPath="$PROJECT_DIR$/src/timus/ex1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex1/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex1/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex10/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex10/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex10/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex11/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex11/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex11/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex12/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex12/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex12/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex13/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex13/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex13/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex14/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex14/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex14/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex15/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex15/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex15/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex16/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex16/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex16/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex17/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex17/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex17/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex18/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex18/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex18/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex19/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex19/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex19/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex2/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex2/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex20/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex20/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex3/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex3/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex4/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex4/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex4/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex5/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex5/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex5/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex6/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex6/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex6/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex7/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex7/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex7/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex8/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex8/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex8/text.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex9/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex9/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/ex9/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="76e5c870-1e96-47ad-b977-c324db39f437" name="Changes" comment="20 заданий на leetcode. Картинка проверки, код, текст и ссылка на задачу (не везде правда есть - моя ошибка)">
+      <change afterPath="$PROJECT_DIR$/example/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr7/Task8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +64,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -144,7 +102,8 @@
       <workItem from="1681964647049" duration="32263000" />
       <workItem from="1682353874297" duration="5845000" />
       <workItem from="1684862997451" duration="10955000" />
-      <workItem from="1685447062038" duration="6287000" />
+      <workItem from="1685447062038" duration="6938000" />
+      <workItem from="1686153446076" duration="15654000" />
     </task>
     <task id="LOCAL-00001" summary="General commit">
       <created>1680634899377</created>
@@ -167,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684953215867</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="20 заданий на leetcode. Картинка проверки, код, текст и ссылка на задачу (не везде правда есть - моя ошибка)">
+      <created>1685555307105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685555307105</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +143,7 @@
     <MESSAGE value="General commit" />
     <MESSAGE value="Лабораторная работа №3" />
     <MESSAGE value="Лабораторная работа №6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Лабораторная работа №6" />
+    <MESSAGE value="20 заданий на leetcode. Картинка проверки, код, текст и ссылка на задачу (не везде правда есть - моя ошибка)" />
+    <option name="LAST_COMMIT_MESSAGE" value="20 заданий на leetcode. Картинка проверки, код, текст и ссылка на задачу (не везде правда есть - моя ошибка)" />
   </component>
 </project>
