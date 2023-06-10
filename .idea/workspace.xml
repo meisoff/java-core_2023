@@ -4,25 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76e5c870-1e96-47ad-b977-c324db39f437" name="Changes" comment="20 заданий на leetcode. Картинка проверки, код, текст и ссылка на задачу (не везде правда есть - моя ошибка)">
-      <change afterPath="$PROJECT_DIR$/example/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr7/Task8.java" afterDir="false" />
+    <list default="true" id="76e5c870-1e96-47ad-b977-c324db39f437" name="Changes" comment="7 лаба">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/songs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/songs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/CreateXMLFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/JsonCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/LinkParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/NewsParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/ReadExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/WriteExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr8/XmlParser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-core_2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core_2023.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,28 +53,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "extract.method.default.visibility": "private",
-    "last_opened_file_path": "C:/Users/Александр/IdeaProjects/java-core_2023/src/timus/ex20",
+    "last_opened_file_path": "C:/Users/Александр/IdeaProjects/java-core_2023/example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Александр\IdeaProjects\java-core_2023\example" />
+      <recent name="C:\Users\Александр\IdeaProjects\java-core_2023" />
       <recent name="C:\Users\Александр\IdeaProjects\java-core_2023\src\timus\ex20" />
       <recent name="C:\Users\Александр\IdeaProjects\java-core_2023\src\timus\ex19" />
       <recent name="C:\Users\Александр\IdeaProjects\java-core_2023\src\timus\ex18" />
-      <recent name="C:\Users\Александр\IdeaProjects\java-core_2023\src\timus\ex17" />
-      <recent name="C:\Users\Александр\IdeaProjects\java-core_2023\src\timus\ex16" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Александр\IdeaProjects\java-core_2023\src\timus\ex1" />
@@ -103,7 +110,7 @@
       <workItem from="1682353874297" duration="5845000" />
       <workItem from="1684862997451" duration="10955000" />
       <workItem from="1685447062038" duration="6938000" />
-      <workItem from="1686153446076" duration="15654000" />
+      <workItem from="1686153446076" duration="35350000" />
     </task>
     <task id="LOCAL-00001" summary="General commit">
       <created>1680634899377</created>
@@ -133,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685555307105</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="7 лаба">
+      <created>1686246843375</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686246843375</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +158,7 @@
     <MESSAGE value="Лабораторная работа №3" />
     <MESSAGE value="Лабораторная работа №6" />
     <MESSAGE value="20 заданий на leetcode. Картинка проверки, код, текст и ссылка на задачу (не везде правда есть - моя ошибка)" />
-    <option name="LAST_COMMIT_MESSAGE" value="20 заданий на leetcode. Картинка проверки, код, текст и ссылка на задачу (не везде правда есть - моя ошибка)" />
+    <MESSAGE value="7 лаба" />
+    <option name="LAST_COMMIT_MESSAGE" value="7 лаба" />
   </component>
 </project>
